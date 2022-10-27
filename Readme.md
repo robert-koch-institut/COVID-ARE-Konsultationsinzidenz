@@ -12,7 +12,7 @@ Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen
 
 ---
 
-Goerlitz L, Tolksdorf K, Prahm K, Preuß U, Haas W und Buda S (2022): COVID-ARE-Konsultationsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.7221097](https://doi.org/10.5281/zenodo.7221097)  
+Goerlitz L, Tolksdorf K, Prahm K, Preuß U, Haas W und Buda S (2022): COVID-ARE-Konsultationsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.7257307](https://doi.org/10.5281/zenodo.7257307)  
 
 
 ##  Informationen zum Datensatz und Entstehungskontext  
