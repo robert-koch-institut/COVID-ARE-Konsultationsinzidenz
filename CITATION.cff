@@ -3,7 +3,7 @@ type: dataset
 title: COVID-ARE-Konsultationsinzidenz
 abstract: >-
   Zur Einschätzung der Krankheitslast symptomatischer Atemwegsinfektionen im ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen Erkrankung mit zusätzlicher COVID-19-Diagnose pro 100.000 Einwohner mithilfe von Daten aus dem SEED<sup>ARE</sup>-Modul der Arbeitsgemeinschaft Influenza wöchentlich berechnet (COVID-ARE-Konsultationsinzidenz). Zeitnahe und valide Daten über die Häufigkeit von akuten Atemwegserkrankungen mit COVID-19 sind essenziell für die Einschätzung der epidemiologischen Lage und die Anpassung der Maßnahmen während der COVID-19-Pandemie.
-date-released: '2022-10-20'
+date-released: '2022-10-27'
 keywords:
   - SARS-CoV-2
   - COVID-19
@@ -27,7 +27,7 @@ keywords:
   - RKI
   - Open Data
 message: Cite me!
-licence: CC-BY-4.0
+license: CC-BY-4.0
 doi: 10.5281/zenodo.7221097
 authors:
   - family-names: Goerlitz
