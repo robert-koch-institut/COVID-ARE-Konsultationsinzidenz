@@ -2,16 +2,17 @@ Datensatzdokumentation
 
 # COVID-ARE-Konsultationsinzidenz  
 
-[Robert Koch-Institute | RKI](https://grid.ac/institutes/grid.13652.33)  
+[Robert Koch-Institute | RKI](https://www.wikidata.org/wiki/Q679041)  
 Nordufer 20  
 13353 Berlin  
 
 
 Luise Goerlitz, [Kristin Tolksdorf](https://orcid.org/0000-0002-8712-6399), Kerstin Prahm, Ute Preuß, [Walter Haas](https://orcid.org/0000-0003-3413-1431) und [Silke Buda](https://orcid.org/0000-0003-3448-3357)   
-Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen  
+[Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)  
 
 ---
 
+**Zitieren**  
 Goerlitz L, Tolksdorf K, Prahm K, Preuß U, Haas W und Buda S (2023): COVID-ARE-Konsultationsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.7624724](https://doi.org/10.5281/zenodo.7624724)  
 
 
@@ -83,6 +84,7 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 |Variable|Typ|Ausprägung|Beschreibung|
 | --- | --- | --- | --- |
 |date|Datum|jjjj-Www|Berichtswoche des RKI im IS0-8601 Format|
+|agegroup| Text | `00-04`, `05-14`, `15-34`, `35-59`, `60+`,`00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
 |are_covid19_incidence|Rationale Zahl||Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19|
 
 ### Formatierung  
