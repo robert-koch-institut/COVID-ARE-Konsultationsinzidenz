@@ -13,7 +13,7 @@ Luise Goerlitz, [Kristin Tolksdorf](https://orcid.org/0000-0002-8712-6399), Kers
 ---
 
 **Zitieren**  
-Goerlitz L, Tolksdorf K, Prahm K, Preuß U, Haas W und Buda S (2023): COVID-ARE-Konsultationsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.7825089](https://doi.org/10.5281/zenodo.7825089)  
+Goerlitz L, Tolksdorf K, Prahm K, Preuß U, Haas W und Buda S (2023): COVID-ARE-Konsultationsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.7848656](https://doi.org/10.5281/zenodo.7848656)  
 
 
 ##  Informationen zum Datensatz und Entstehungskontext  
