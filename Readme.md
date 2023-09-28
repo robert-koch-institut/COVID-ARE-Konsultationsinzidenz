@@ -2,18 +2,18 @@ Datensatzdokumentation
 
 # COVID-ARE-Konsultationsinzidenz  
 
-[Robert Koch-Institute | RKI](https://www.wikidata.org/wiki/Q679041)  
+[Robert Koch-Institute | RKI](rki.de)  
 Nordufer 20  
 13353 Berlin  
 
 
-Luise Goerlitz, [Kristin Tolksdorf](https://orcid.org/0000-0002-8712-6399), Kerstin Prahm, Ute Preuß, [Walter Haas](https://orcid.org/0000-0003-3413-1431) und [Silke Buda](https://orcid.org/0000-0003-3448-3357)   
-[Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)  
+[Luise Goerlitz](https://orcid.org/0009-0004-3024-6797), [Kristin Tolksdorf](https://orcid.org/0000-0002-8712-6399), [Kerstin Prahm](https://orcid.org/0009-0005-7038-4315), Ute Preuß, [Walter Haas](https://orcid.org/0000-0003-3413-1431) und [Silke Buda](https://orcid.org/0000-0003-3448-3357)   
+[**Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen**](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)  
 
 ---
 
 **Zitieren**  
-Goerlitz L, Tolksdorf K, Prahm K, Preuß U, Haas W und Buda S (2023): COVID-ARE-Konsultationsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.8366344](https://doi.org/10.5281/zenodo.8366344)  
+Goerlitz L, Tolksdorf K, Prahm K, Preuß U, Haas W und Buda S (2023): COVID-ARE-Konsultationsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.8386018](https://doi.org/10.5281/zenodo.8386018)  
 
 
 ##  Informationen zum Datensatz und Entstehungskontext  
@@ -24,7 +24,7 @@ Zur Einschätzung der Krankheitslast symptomatischer Atemwegsinfektionen im ambu
 
 Die zugrundeliegenden Daten werden von den Sentinel-Praxen über das SEED<sup>ARE</sup>-Modul im Arztinformationssystem elektronisch erfasst und an das Robert Koch-Institut (RKI) übermittelt. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html) des RKI.
 
-Die Veröffentlichung der validierten und aufbereiteten Daten, die Kuration sowie das Qualitätsmanagement der Meta-Daten erfolgt durch das [Fachgebiet MF 4 | Informations- und Forschungsdatenmanagement](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MF/MF4/mf4_node.html). Fragen zum Datenmanagement können an das Open Data-Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).  
+Die Veröffentlichung der validierten und aufbereiteten Daten, die Kuration sowie das Qualitätsmanagement der Meta-Daten erfolgt durch das [Fachgebiet MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html). Fragen zum Datenmanagement können an das Open Data-Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).  
 
 ### Entstehungskontext  
 
@@ -46,7 +46,7 @@ Weitere Informationen zum SEED<sup>ARE</sup>-Modul sind in der Schnittstellendok
 
 Zur Einschätzung der Krankheitslast symptomatischer Erkrankungen im ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen Erkrankung mit COVID-19 wöchentlich mithilfe der SEED<sup>ARE</sup>-Daten berechnet (COVID-ARE-Konsultationsinzidenz). Dabei werden ICD-10-Code-basierte Daten von Patient:innen mit akuter Atemwegserkrankung (J00 – J22, J44.0, B34.9) und zusätzlicher COVID-19-Diagnose (U07.1) erfasst. Die Berechnung der [COVID-ARE-Konsultationsinzidenz](https://www.doi.org/10.25646/8849) erfolgte wie von Goerlitz et al. (2021) beschrieben.
 
->Goerlitz L, Cai W, Tolksdorf K, Prahm K, Preuß U, Wolff T, Dürrwald R, Haas W, Buda S: ICD-10-Code-basierte syndromische Surveillance akuter Atemwegserkrankungen mit COVID-19 im ambulanten Bereich Epid Bull 2021;30:3 -10 | DOI [10.25646/8849](https://www.doi.org/10.25646/8849)
+>Goerlitz L, Cai W, Tolksdorf K, Prahm K, Preuß U, Wolff T, Dürrwald R, Haas W, Buda S: ICD-10-Code-basierte syndromische Surveillance akuter Atemwegserkrankungen mit COVID-19 im ambulanten Bereich Epid Bull 2021;30:3 -10 | DOI: [10.25646/8849](https://www.doi.org/10.25646/8849)
 
 > Goerlitz L, Tolksdorf K, Buchholz U, Prahm K, Preuß U, an der Heiden M, et al. Überwachung von COVID-19 durch Erweiterung der etablierten Surveillance für Atemwegsinfektionen. Bundesgesundheitsblatt-Gesundheitsforschung-Gesundheitsschutz. 2021:1-8. | DOI: [10.1007/s00103-021-03303-2](https://doi.org/10.1007/s00103-021-03303-2)
  
@@ -76,14 +76,14 @@ Die Daten der Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COV
 
 Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgewertet. Das bedeutet, dass alle bis dahin im SEED<sup>ARE</sup>-Modul erfassten und an das RKI übermittelten Daten einfließen. Die Daten sind wöchentlich verfügbar und können durch Nachmeldungen noch ergänzt werden.
 
-> [COVID-ARE-Konsultationsinzidenz.csv](/COVID-ARE-Konsultationsinzidenz.csv)
+> [COVID-ARE-Konsultationsinzidenz.csv](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/COVID-ARE-Konsultationsinzidenz.csv)
  
 ### Variablen und Variablenausprägungen
 
 
 |Variable|Typ|Ausprägung|Beschreibung|
 | --- | --- | --- | --- |
-|date|Datum|jjjj-Www|Berichtswoche des RKI im IS0-8601 Format|
+|date|Datum|`jjjj-Www`|Berichtswoche des RKI im IS0-8601 Format|
 |agegroup| Text | `00-04`, `05-14`, `15-34`, `35-59`, `60+`,`00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
 |are_covid19_incidence|Rationale Zahl||Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19|
 
@@ -100,21 +100,33 @@ Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten b
 
 > [Metadaten/](/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](http://Zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.   
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](http://Zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.   
 
-> [Metadaten/zenodo.json](/Metadaten/zenodo.json)  
+> [Metadaten/zenodo.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/zenodo.json)  
 
+In der zenodo.json ist neben der Publikationsdatum (`"publication_date"`) auch der Datenstand enthalten:
+```
+  "dates": [
+    {
+      "start": "2023-09-11T15:00:21+02:00",
+      "end": "2023-09-11T15:00:21+02:00",
+      "type": "Collected",
+      "description": "Date when the Dataset was created"
+    }
+  ],
+```    
 
-## Hinweise zur Nachnutzung der Daten
+## Hinweise zur Nachnutzung der Daten  
 
-Offene Forschungsdaten des RKI werden auf github.com, zenodo.org und edoc.rki.de bereitgestellt:  
+Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:
 
-* https://github.com/robert-koch-institut  
-* https://zenodo.org/communities/robertkochinstitut  
-* https://edoc.rki.de/
+- https://zenodo.org/communities/robertkochinstitut
+- https://github.com/robert-koch-institut
+- https://gitlab.opencode.de/robert-koch-institut
+- https://edoc.rki.de/
 
 ### Lizenz
 
 Der Datensatz "COVID-ARE-Konsultationsinzidenz" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License |](https://creativecommons.org/licenses/by/4.0/deed.de) <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">CC-BY 4.0 International</a>
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede:r hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](/LICENSE) bzw. [LIZENZ](/LIZENZ) Datei des Datensatzes.  
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede:r hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/LIZENZ) Datei des Datensatzes.  
