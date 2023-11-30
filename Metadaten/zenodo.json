@@ -1,6 +1,6 @@
 {
   "title": "COVID-ARE-Konsultationsinzidenz",
-  "description": "Zur Einschätzung der Krankheitslast symptomatischer Atemwegsinfektionen im ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen Erkrankung mit zusätzlicher COVID-19-Diagnose pro 100.000 Einwohner mithilfe von Daten aus dem SEED(ARE)-Modul der Arbeitsgemeinschaft Influenza wöchentlich berechnet (COVID-ARE-Konsultationsinzidenz). Zeitnahe und valide Daten über die Häufigkeit von akuten Atemwegserkrankungen mit COVID-19 sind essenziell für die Einschätzung der epidemiologischen Lage und die Anpassung der Maßnahmen während der COVID-19-Pandemie.",
+  "description": "<p>Zur Einschätzung der Krankheitslast symptomatischer Atemwegsinfektionen im ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen Erkrankung mit zusätzlicher COVID-19-Diagnose pro 100.000 Einwohner mithilfe von Daten aus dem SEED(ARE)-Modul der Arbeitsgemeinschaft Influenza wöchentlich berechnet (COVID-ARE-Konsultationsinzidenz). Zeitnahe und valide Daten über die Häufigkeit von akuten Atemwegserkrankungen mit COVID-19 sind essenziell für die Einschätzung der epidemiologischen Lage und die Anpassung der Maßnahmen während der COVID-19-Pandemie.</p>\n",
   "creators": [
     {
       "name": "Goerlitz, Luise",
@@ -54,8 +54,8 @@
     "RKI",
     "Open Data"
   ],
-  "publication_date": "2023-11-23",
-  "version": "2023-11-23",
+  "publication_date": "2023-11-30",
+  "version": "2023-11-30",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -85,8 +85,8 @@
   ],
   "dates": [
     {
-      "start": "2023-11-23T14:41:40+01:00",
-      "end": "2023-11-23T14:41:40+01:00",
+      "start": "2023-11-30T09:04:26+01:00",
+      "end": "2023-11-30T09:04:26+01:00",
       "type": "Collected",
       "description": "Date when the Dataset was created"
     }
