@@ -10,7 +10,7 @@ abstract: >-
   und valide Daten über die Häufigkeit von akuten Atemwegserkrankungen mit
   COVID-19 sind essenziell für die Einschätzung der epidemiologischen Lage und
   die Anpassung der Maßnahmen während der COVID-19-Pandemie.
-date-released: '2024-03-28'
+date-released: '2024-04-04'
 keywords:
   - SARS-CoV-2
   - COVID-19
@@ -40,8 +40,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/COVID-ARE-Konsultationsinzidenz/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.10889825
-version: '2024-03-28T10:09:21+01:00'
+doi: 10.5281/zenodo.10925129
+version: '2024-04-04T09:04:46+02:00'
 authors:
   - family-names: Goerlitz
     given-names: Luise
