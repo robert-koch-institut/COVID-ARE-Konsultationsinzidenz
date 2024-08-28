@@ -1,0 +1,16 @@
+{
+  "name": "covid-are-konsultationsinzidenz",
+  "title": "COVID-ARE-Konsultationsinzidenz",
+  "description": "Frictionless data package. This package lists and describes all data files in this open data repository. For more information on frictionless data, see https://specs.frictionlessdata.io/ and https://framework.frictionlessdata.io/.",
+  "resources": [
+    {
+      "name": "covid-are-konsultationsinzidenz",
+      "type": "table",
+      "path": "../../COVID-ARE-Konsultationsinzidenz.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json"
+    }
+  ]
+}
