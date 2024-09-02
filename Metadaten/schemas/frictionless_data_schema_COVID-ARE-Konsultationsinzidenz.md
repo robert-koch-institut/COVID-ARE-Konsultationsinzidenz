@@ -1,0 +1,5 @@
+| Variable              | Typ    | Ausprägungen                                            | Beschreibung                                                                       |
+|:----------------------|:-------|:--------------------------------------------------------|:-----------------------------------------------------------------------------------|
+| date                  | date   | Format: `%Y-W%W`                                        | Berichtswoche des RKI im IS0-8601 Format                                           |
+| agegroup              | string | Werte: `00-04`, `05-14`, `15-34`, `35-59`, `60+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
+| are_covid19_incidence | number | Minimum: 0                                              | Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19            |

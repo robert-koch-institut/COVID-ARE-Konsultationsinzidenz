@@ -2,14 +2,14 @@
   "fields": [
     {
       "name": "date",
-      "type": "date",
-      "description": "Berichtswoche des RKI im IS0-8601 Format",
-      "format": "%Y-W%W"
+      "type": "string",
+      "constraints": {
+        "pattern": "[0-9]{4}-W[0-9]{2}"
+      }
     },
     {
       "name": "agegroup",
       "type": "string",
-      "description": "Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an.",
       "constraints": {
         "enum": [
           "00-04",
@@ -23,8 +23,7 @@
     },
     {
       "name": "are_covid19_incidence",
-      "type": "number",
-      "description": "Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19",
+      "type": "integer",
       "constraints": {
         "minimum": 0
       }

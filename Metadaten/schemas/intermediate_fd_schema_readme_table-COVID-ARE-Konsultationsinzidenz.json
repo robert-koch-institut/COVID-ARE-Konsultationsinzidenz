@@ -3,7 +3,8 @@
     {
       "name": "date",
       "type": "date",
-      "description": "Berichtswoche des RKI im IS0-8601 Format"
+      "description": "Berichtswoche des RKI im IS0-8601 Format",
+      "format": "%Y-W%W"
     },
     {
       "name": "agegroup",
