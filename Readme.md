@@ -86,7 +86,11 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 |:----------------------|:-------|:--------------------------------------------------------|:-----------------------------------------------------------------------------------|
 | date                  | date   | Format: `YYYY-Www`                                      | Berichtswoche des RKI im IS0-8601 Format                                           |
 | agegroup              | string | Werte: `00-04`, `05-14`, `15-34`, `35-59`, `60+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
-| are_covid19_incidence | number | Minimum: 0                                              | Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19            |
+| are_covid19_incidence | number | Werte: ≥0                                               | Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19            |
+
+
+
+
 
 Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json`](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json).
 
