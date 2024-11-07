@@ -14,7 +14,7 @@ Nordufer 20
 ---
 
 **Zitieren**  
-Goerlitz L, Tolksdorf K, Prahm K, Preuß U, Haas W und Buda S (**2024**): COVID-ARE-Konsultationsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.14016355](https://doi.org/10.5281/zenodo.14016355)  
+Goerlitz L, Tolksdorf K, Prahm K, Preuß U, Haas W und Buda S (**2024**): COVID-ARE-Konsultationsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.14049362](https://doi.org/10.5281/zenodo.14049362)  
 
 
 ##  Informationen zum Datensatz und Entstehungskontext  
