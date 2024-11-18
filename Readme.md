@@ -82,17 +82,26 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 ### Variablen und Variablenausprägungen
 
 
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-ARE-Konsultationsinzidenz", "lang": "de"} -->
+
+Die Datei [COVID-ARE-Konsultationsinzidenz.csv](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/COVID-ARE-Konsultationsinzidenz.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json) hinterlegt:
+> [frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
 | Variable              | Typ    | Ausprägungen                                            | Beschreibung                                                                       |
 |:----------------------|:-------|:--------------------------------------------------------|:-----------------------------------------------------------------------------------|
 | date                  | date   | Format: `YYYY-Www`                                      | Berichtswoche des RKI im IS0-8601 Format                                           |
 | agegroup              | string | Werte: `00-04`, `05-14`, `15-34`, `35-59`, `60+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
 | are_covid19_incidence | number | Werte: ≥0                                               | Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19            |
 
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
 
 
-Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json`](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json).
+
 
 
 ### Formatierung  
