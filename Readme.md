@@ -83,8 +83,8 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-ARE-Konsultationsinzidenz", "lang": "de"} -->
 
-Die Datei [COVID-ARE-Konsultationsinzidenz.csv](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/COVID-ARE-Konsultationsinzidenz.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json) hinterlegt:
-> [frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-ARE-Konsultationsinzidenz.json)
+Die Datei [COVID-ARE-Konsultationsinzidenz.csv](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/COVID-ARE-Konsultationsinzidenz.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/tableschema_COVID-ARE-Konsultationsinzidenz.json) hinterlegt:
+> [tableschema_COVID-ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/tableschema_COVID-ARE-Konsultationsinzidenz.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable              | Typ    | Ausprägungen                                            | Beschreibung                                                                       |
