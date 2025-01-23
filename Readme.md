@@ -14,7 +14,9 @@ Nordufer 20
 ---
 
 **Zitieren**  
-Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Haas, W., & Buda, S. (2025). COVID-ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14723441](https://doi.org/10.5281/zenodo.14723441)  
+<!-- CITATION_START: {"citation_style": "apa"} -->
+Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Haas, W., & Buda, S. (2025). COVID-ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14723441](https://doi.org/10.5281/zenodo.14723441)
+<!-- CITATION_END -->
 
 
 ##  Informationen zum Datensatz und Entstehungskontext  
