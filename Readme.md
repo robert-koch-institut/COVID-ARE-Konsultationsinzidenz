@@ -9,12 +9,12 @@ Nordufer 20
   
 [**Luise Goerlitz**](https://orcid.org/0009-0004-3024-6797)&sup1;, [**Kristin Tolksdorf**](https://orcid.org/0000-0002-8712-6399)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1;, [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1; und [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;   
 
-&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)      
+&emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)      
 
 ---
 
 **Zitieren**  
-Goerlitz L, Tolksdorf K, Prahm K, Preuß U, Haas W und Buda S (**2024**): COVID-ARE-Konsultationsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.14670641](https://doi.org/10.5281/zenodo.14670641)  
+Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Haas, W., & Buda, S. (2025). COVID-ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14723441](https://doi.org/10.5281/zenodo.14723441)  
 
 
 ##  Informationen zum Datensatz und Entstehungskontext  
