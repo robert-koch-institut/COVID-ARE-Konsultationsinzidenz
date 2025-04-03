@@ -1,5 +1,0 @@
-version 1.1
-@totalColumns 3
-date: regex("[0-9]{4}-W[0-9]{2}")
-agegroup: any("00-04", "05-14", "15-34", "35-59", "60+", "00+")
-are_covid19_incidence: positiveInteger
