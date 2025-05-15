@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.15362924",
+        "identifier": "10.5281/zenodo.15421876",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -129,14 +129,20 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-05-08"
+      "version": "2025-05-15"
     },
     "webpage": "https://robert-koch-institut.github.io/COVID-ARE-Konsultationsinzidenz/",
     "contributors": [
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -149,7 +155,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -168,7 +180,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -181,7 +199,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -194,7 +218,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -213,7 +243,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
