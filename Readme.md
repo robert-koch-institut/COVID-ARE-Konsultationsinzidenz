@@ -1,22 +1,46 @@
-Datensatzdokumentation  
-# COVID-ARE-Konsultationsinzidenz  
+<!-- HEADER_START: {"lang": "de"} -->
 
-[Robert Koch-Institut | RKI](Https://rki.de)  
-Nordufer 20  
-13353 Berlin  
- 
-<br>
-  
-[**Luise Goerlitz**](https://orcid.org/0009-0004-3024-6797)&sup1;, [**Kristin Tolksdorf**](https://orcid.org/0000-0002-8712-6399)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1;, [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1; und [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;   
 
-&emsp;&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html)      
+Dokumentation  
+# COVID-ARE-Konsultationsinzidenz
 
----
+<br> 
+<br> 
+<br> 
+
+[**Luise Goerlitz**](https://orcid.org/0009-0004-3024-6797)&sup1;, [**Kristin Tolksdorf**](https://orcid.org/0000-0002-8712-6399)&sup1;, [**Kerstin Prahm**](https://orcid.org/0009-0005-7038-4315)&sup1;, **Ute Preuß**&sup1;, [**Simon Krupka**](https://orcid.org/0000-0003-1941-1734)&sup1;, **Juliane Wunderlich**&sup1;, [**Tamar Gvaladze**](https://orcid.org/0009-0007-4442-9633)&sup1;, [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1;, & [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;
+
+<br> 
+
+
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet 36](https://www.rki.de/fg36)
+
+<br> 
 
 **Zitieren**  
-<!-- CITATION_START: {"citation_style": "apa"} -->
-Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Haas, W., & Buda, S. (2025). COVID-ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15187280](https://doi.org/10.5281/zenodo.15187280)
-<!-- CITATION_END -->
+Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Haas, W., & Buda, S. (2025). COVID-ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15187280](https://doi.org/10.5281/zenodo.15187280)
+
+<br>
+
+
+**Zusammenfassung**    
+Im Datensatz "COVID-ARE-Konsultationsinzidenz" des Robert Koch-Instituts werden wöchentliche Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer Erkrankung (ARE) und zusätzlicher COVID-19-Diagnose in Deutschland bereitgestellt. Über das syndromische Surveillance-Modul SEED-ARE werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen und Patienten mit einer akuten Atemwegserkrankung inklusive der jeweiligen ICD-10-Diagnosecodes elektronisch übermittelt. Die COVID-ARE-Konsultationsinzidenz wird pro 100.000 Einwohner und nach Altersgruppen ausgewiesen. Der Datensatz ermöglicht eine zeitnahe Einschätzung der Krankheitslast und unterstützt evidenzbasierte Entscheidungen im Infektionsgeschehen mit COVID-19.
+
+<br>
+
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+<!-- TOC_END -->
+
+<br>
+
+<!-- HEADER_END -->
+
+
 
 
 ##  Informationen zum Datensatz und Entstehungskontext  
@@ -25,9 +49,9 @@ Zur Einschätzung der Krankheitslast symptomatischer Atemwegsinfektionen im ambu
 
 ### Administrative und organisatorische Angaben  
 
-Die zugrundeliegenden Daten werden von den Sentinel-Praxen über das SEED<sup>ARE</sup>-Modul im Arztinformationssystem elektronisch erfasst und an das Robert Koch-Institut (RKI) übermittelt. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html) des RKI.
+Die zugrundeliegenden Daten werden von den Sentinel-Praxen über das SEED<sup>ARE</sup>-Modul im Arztinformationssystem elektronisch erfasst und an das Robert Koch-Institut (RKI) übermittelt. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/fg36) des RKI.
 
-Die Veröffentlichung der validierten und aufbereiteten Daten, die Kuration sowie das Qualitätsmanagement der Meta-Daten erfolgt durch das [Fachgebiet MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement können an das Open Data-Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).  
+Die Veröffentlichung der validierten und aufbereiteten Daten, die Kuration sowie das Qualitätsmanagement der Meta-Daten erfolgt durch das [Fachgebiet MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement können an das Open Data-Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).  
 
 ### Entstehungskontext  
 
@@ -162,7 +186,7 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
  
 ### Lizenz  
 
-Der Datensatz "COVID-ARE-Konsultationsinzidenz" ist lizenziert unter  der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
+Der Datensatz "COVID-ARE-Konsultationsinzidenz" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
 Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/LIZENZ) Datei des Datensatzes.  
 <!-- FOOTER_END -->
