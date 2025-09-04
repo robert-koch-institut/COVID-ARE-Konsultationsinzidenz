@@ -9,7 +9,7 @@
     "descriptions": [
       {
         "language": "DE (German)",
-        "text": "Zur Einschätzung der Krankheitslast symptomatischer Atemwegsinfektionen im ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen Erkrankung mit zusätzlicher COVID-19-Diagnose pro 100.000 Einwohner mithilfe von Daten aus dem SEED(ARE)-Modul der Arbeitsgemeinschaft Influenza wöchentlich berechnet (COVID-ARE-Konsultationsinzidenz). Zeitnahe und valide Daten über die Häufigkeit von akuten Atemwegserkrankungen mit COVID-19 sind essenziell für die Einschätzung der epidemiologischen Lage und die Anpassung der Maßnahmen während der COVID-19-Pandemie."
+        "text": "Im Datensatz \"COVID-ARE-Konsultationsinzidenz\" des Robert Koch-Instituts werden wöchentliche Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer Erkrankung (ARE) und zusätzlicher COVID-19-Diagnose in Deutschland bereitgestellt. Über das syndromische Surveillance-Modul SEED-ARE werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen und Patienten mit einer akuten Atemwegserkrankung inklusive der jeweiligen ICD-10-Diagnosecodes elektronisch übermittelt. Die COVID-ARE-Konsultationsinzidenz wird pro 100.000 Einwohner und nach Altersgruppen ausgewiesen. Der Datensatz ermöglicht eine zeitnahe Einschätzung der Krankheitslast und unterstützt evidenzbasierte Entscheidungen im Infektionsgeschehen mit COVID-19."
       }
     ],
     "titles": [
@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.16978680",
+        "identifier": "10.5281/zenodo.17052095",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -129,7 +129,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-08-28"
+      "version": "2025-09-04"
     },
     "webpage": "https://robert-koch-institut.github.io/COVID-ARE-Konsultationsinzidenz/",
     "contributors": [
@@ -149,7 +149,13 @@
         "personal": {
           "type": "Creator/Author",
           "givenName": "Luise",
-          "familyName": "Goerlitz"
+          "familyName": "Goerlitz",
+          "identifiers": [
+            {
+              "identifier": "0009-0004-3024-6797",
+              "scheme": "ORCID"
+            }
+          ]
         }
       },
       {
@@ -193,7 +199,13 @@
         "personal": {
           "type": "Creator/Author",
           "givenName": "Kerstin",
-          "familyName": "Prahm"
+          "familyName": "Prahm",
+          "identifiers": [
+            {
+              "identifier": "0009-0005-7038-4315",
+              "scheme": "ORCID"
+            }
+          ]
         }
       },
       {
@@ -213,6 +225,75 @@
           "type": "Creator/Author",
           "givenName": "Ute",
           "familyName": "Preuß"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "nameType": "Personal",
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Simon",
+          "familyName": "Krupka",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-1941-1734",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "nameType": "Personal",
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Juliane",
+          "familyName": "Wunderlich"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "nameType": "Personal",
+        "personal": {
+          "type": "Creator/Author",
+          "givenName": "Tamar",
+          "familyName": "Gvaladze",
+          "identifiers": [
+            {
+              "identifier": "0009-0007-4442-9633",
+              "scheme": "ORCID"
+            }
+          ]
         }
       },
       {

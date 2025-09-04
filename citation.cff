@@ -2,15 +2,18 @@ cff-version: 1.2.0
 type: dataset
 title: COVID-ARE-Konsultationsinzidenz
 abstract: >-
-  Zur Einschätzung der Krankheitslast symptomatischer Atemwegsinfektionen im
-  ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten
-  respiratorischen Erkrankung mit zusätzlicher COVID-19-Diagnose pro 100.000
-  Einwohner mithilfe von Daten aus dem SEED(ARE)-Modul der Arbeitsgemeinschaft
-  Influenza wöchentlich berechnet (COVID-ARE-Konsultationsinzidenz). Zeitnahe
-  und valide Daten über die Häufigkeit von akuten Atemwegserkrankungen mit
-  COVID-19 sind essenziell für die Einschätzung der epidemiologischen Lage und
-  die Anpassung der Maßnahmen während der COVID-19-Pandemie.
-date-released: '2025-08-28'
+  Im Datensatz &quot;COVID-ARE-Konsultationsinzidenz&quot; des Robert
+  Koch-Instituts werden wöchentliche Inzidenzen von ambulanten Konsultationen
+  mit akuter respiratorischer Erkrankung (ARE) und zusätzlicher
+  COVID-19-Diagnose in Deutschland bereitgestellt. Über das syndromische
+  Surveillance-Modul SEED-ARE werden aus Sentinelpraxen Daten von gesetzlich
+  versicherten Patientinnen und Patienten mit einer akuten Atemwegserkrankung
+  inklusive der jeweiligen ICD-10-Diagnosecodes elektronisch übermittelt. Die
+  COVID-ARE-Konsultationsinzidenz wird pro 100.000 Einwohner und nach
+  Altersgruppen ausgewiesen. Der Datensatz ermöglicht eine zeitnahe Einschätzung
+  der Krankheitslast und unterstützt evidenzbasierte Entscheidungen im
+  Infektionsgeschehen mit COVID-19.
+date-released: '2025-09-04'
 keywords:
   - SARS-CoV-2
   - COVID-19
@@ -40,27 +43,40 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/COVID-ARE-Konsultationsinzidenz/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.16978680
-version: '2025-08-28T09:34:38+02:00'
+doi: 10.5281/zenodo.17052095
+version: '2025-09-04T09:04:12+02:00'
 authors:
   - family-names: Goerlitz
     given-names: Luise
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 36
+    orcid: 0009-0004-3024-6797
   - family-names: Tolksdorf
     given-names: Kristin
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 36
     orcid: 0000-0002-8712-6399
   - family-names: Prahm
     given-names: Kerstin
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 36
+    orcid: 0009-0005-7038-4315
   - family-names: Preuß
     given-names: Ute
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 36
+  - family-names: Krupka
+    given-names: Simon
+    affiliation: Robert Koch-Institut | Fachgebiet 36
+    orcid: 0000-0003-1941-1734
+  - family-names: Wunderlich
+    given-names: Juliane
+    affiliation: Robert Koch-Institut | Fachgebiet 36
+  - family-names: Gvaladze
+    given-names: Tamar
+    affiliation: Robert Koch-Institut | Fachgebiet 36
+    orcid: 0009-0007-4442-9633
   - family-names: Haas
     given-names: Walter
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 36
     orcid: 0000-0003-3413-1431
   - family-names: Buda
     given-names: Silke
-    affiliation: Robert Koch-Institut
+    affiliation: Robert Koch-Institut | Fachgebiet 36
     orcid: 0000-0003-3448-3357

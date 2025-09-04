@@ -1,16 +1,22 @@
 {
   "title": "COVID-ARE-Konsultationsinzidenz",
-  "description": "<p>Zur Einschätzung der Krankheitslast symptomatischer Atemwegsinfektionen im ambulanten Bereich wird die Inzidenz der Arztbesuche wegen einer akuten respiratorischen Erkrankung mit zusätzlicher COVID-19-Diagnose pro 100.000 Einwohner mithilfe von Daten aus dem SEED(ARE)-Modul der Arbeitsgemeinschaft Influenza wöchentlich berechnet (COVID-ARE-Konsultationsinzidenz). Zeitnahe und valide Daten über die Häufigkeit von akuten Atemwegserkrankungen mit COVID-19 sind essenziell für die Einschätzung der epidemiologischen Lage und die Anpassung der Maßnahmen während der COVID-19-Pandemie.</p>\n",
+  "description": "<p>Im Datensatz &quot;COVID-ARE-Konsultationsinzidenz&quot; des Robert Koch-Instituts werden wöchentliche Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer Erkrankung (ARE) und zusätzlicher COVID-19-Diagnose in Deutschland bereitgestellt. Über das syndromische Surveillance-Modul SEED-ARE werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen und Patienten mit einer akuten Atemwegserkrankung inklusive der jeweiligen ICD-10-Diagnosecodes elektronisch übermittelt. Die COVID-ARE-Konsultationsinzidenz wird pro 100.000 Einwohner und nach Altersgruppen ausgewiesen. Der Datensatz ermöglicht eine zeitnahe Einschätzung der Krankheitslast und unterstützt evidenzbasierte Entscheidungen im Infektionsgeschehen mit COVID-19.</p>\n",
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2025-08-28",
+  "publication_date": "2025-09-04",
   "creators": [
     {
       "person_or_org": {
         "type": "personal",
         "family_name": "Goerlitz",
-        "given_name": "Luise"
+        "given_name": "Luise",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0009-0004-3024-6797"
+          }
+        ]
       },
       "affiliations": [
         {
@@ -42,7 +48,13 @@
       "person_or_org": {
         "type": "personal",
         "family_name": "Prahm",
-        "given_name": "Kerstin"
+        "given_name": "Kerstin",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0009-0005-7038-4315"
+          }
+        ]
       },
       "affiliations": [
         {
@@ -56,6 +68,57 @@
         "type": "personal",
         "family_name": "Preuß",
         "given_name": "Ute"
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ]
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Krupka",
+        "given_name": "Simon",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0003-1941-1734"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ]
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Wunderlich",
+        "given_name": "Juliane"
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ]
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Gvaladze",
+        "given_name": "Tamar",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0009-0007-4442-9633"
+          }
+        ]
       },
       "affiliations": [
         {
@@ -105,10 +168,10 @@
   ],
   "contributors": [],
   "publisher": "Zenodo",
-  "version": "2025-08-28",
+  "version": "2025-09-04",
   "dates": [
     {
-      "date": "2025-08-28T09:34:38+02:00",
+      "date": "2025-09-04T09:04:12+02:00",
       "type": {
         "id": "created"
       },
