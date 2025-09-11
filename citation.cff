@@ -13,7 +13,7 @@ abstract: >-
   Altersgruppen ausgewiesen. Der Datensatz ermöglicht eine zeitnahe Einschätzung
   der Krankheitslast und unterstützt evidenzbasierte Entscheidungen im
   Infektionsgeschehen mit COVID-19.
-date-released: '2025-09-04'
+date-released: '2025-09-11'
 keywords:
   - SARS-CoV-2
   - COVID-19
@@ -43,8 +43,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/COVID-ARE-Konsultationsinzidenz/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.17052095
-version: '2025-09-04T09:04:12+02:00'
+doi: 10.5281/zenodo.17097469
+version: '2025-09-11T09:04:11+02:00'
 authors:
   - family-names: Goerlitz
     given-names: Luise
