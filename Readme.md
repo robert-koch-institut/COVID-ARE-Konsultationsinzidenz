@@ -2,6 +2,7 @@
 
 
 Dokumentation  
+
 # COVID-ARE-Konsultationsinzidenz
 
 <br> 
@@ -19,21 +20,24 @@ Dokumentation
 <br> 
 
 **Zitieren**  
+<!-- CITATION_START: {"citation_style": "apa"} -->  
 Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Haas, W., & Buda, S. (2026). COVID-ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18491834](https://doi.org/10.5281/zenodo.18491834)
+<!-- CITATION_END -->
+
 
 <br>
-
 
 **Zusammenfassung**    
 Im Datensatz "COVID-ARE-Konsultationsinzidenz" des Robert Koch-Instituts werden wöchentliche Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer Erkrankung (ARE) und zusätzlicher COVID-19-Diagnose in Deutschland bereitgestellt. Über das syndromische Surveillance-Modul SEED-ARE werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen und Patienten mit einer akuten Atemwegserkrankung inklusive der jeweiligen ICD-10-Diagnosecodes elektronisch übermittelt. Die COVID-ARE-Konsultationsinzidenz wird pro 100.000 Einwohner und nach Altersgruppen ausgewiesen. Der Datensatz ermöglicht eine zeitnahe Einschätzung der Krankheitslast und unterstützt evidenzbasierte Entscheidungen im Infektionsgeschehen mit COVID-19.
 
 <br>
 
-**Inhaltsverzeichnis** 
+**Inhaltsverzeichnis**  
+
 <!-- TOC_START: {"heading_depth": 2} -->
-  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
-  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
-  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)  
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)  
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)  
 <!-- TOC_END -->
 
 <br>
@@ -65,8 +69,8 @@ Bei den Daten handelt es sich um fallbasierte anonymisierte Daten von gesetzlich
 
 Weitere Informationen zum SEED<sup>ARE</sup>-Modul sind in der Schnittstellendokumentation und der Bedienungsanleitung enthalten unter:
 
-> https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/SEED.pdf
-> https://influenza.rki.de/Content/Bedienungsanleitung_CGM-Assist_SEEDare.pdf
+> [https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/SEED.html](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/SEED.html)
+> [https://influenza.rki.de/Content/Bedienungsanleitung_CGM-Assist_SEEDare.pdf](https://influenza.rki.de/Content/Bedienungsanleitung_CGM-Assist_SEEDare.pdf)
 
 
 ### Datenauswertung und Aufbereitung  
@@ -77,7 +81,7 @@ Zur Einschätzung der Krankheitslast symptomatischer Erkrankungen im ambulanten 
 
 > Goerlitz L, Tolksdorf K, Buchholz U, Prahm K, Preuß U, an der Heiden M, et al. Überwachung von COVID-19 durch Erweiterung der etablierten Surveillance für Atemwegsinfektionen. Bundesgesundheitsblatt-Gesundheitsforschung-Gesundheitsschutz. 2021:1-8. | DOI: [10.1007/s00103-021-03303-2](https://doi.org/10.1007/s00103-021-03303-2)
  
->Köpke K, Prahm K, Buda S, Haas W. Evaluation einer ICD-10-basierten elektronischen Surveillance akuter respiratorischer Erkrankungen (<sup>ARE</sup>) in Deutschland. Bundesgesundheitsblatt-Gesundheitsforschung-Gesundheitsschutz. 2016;59(11):1484-91. | DOI: [10.1007/s00103-016-2454-0](https://doi.org/10.1007/s00103-016-2454-0)
+>Köpke K, Prahm K, Buda S, Haas W. Evaluation einer ICD-10-basierten elektronischen Surveillance akuter respiratorischer Erkrankungen (SEED<sup>ARE</sup>) in Deutschland. Bundesgesundheitsblatt-Gesundheitsforschung-Gesundheitsschutz. 2016;59(11):1484-91. | DOI: [10.1007/s00103-016-2454-0](https://doi.org/10.1007/s00103-016-2454-0)
 
 
 #### Limitationen und Einordnung des Datensatzes
@@ -104,20 +108,21 @@ Die Daten der Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COV
 Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgewertet. Das bedeutet, dass alle bis dahin im SEED<sup>ARE</sup>-Modul erfassten und an das RKI übermittelten Daten einfließen. Die Daten sind wöchentlich verfügbar und können durch Nachmeldungen noch ergänzt werden.
 
 > [COVID-ARE-Konsultationsinzidenz.csv](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/COVID-ARE-Konsultationsinzidenz.csv)
- 
+
 ### Variablen und Variablenausprägungen
 
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-ARE-Konsultationsinzidenz", "lang": "de"} -->
 
 Die Datei [COVID-ARE-Konsultationsinzidenz.csv](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/COVID-ARE-Konsultationsinzidenz.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/tableschema_COVID-ARE-Konsultationsinzidenz.json) hinterlegt:
+
 > [tableschema_COVID-ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/tableschema_COVID-ARE-Konsultationsinzidenz.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
-| Variable              | Typ    | Ausprägungen                                            | Beschreibung                                                                       |
-|:----------------------|:-------|:--------------------------------------------------------|:-----------------------------------------------------------------------------------|
-| date                  | date   | Format: `YYYY-Www`                                      | Berichtswoche des RKI im IS0-8601 Format                                           |
-| agegroup              | string | Werte: `00-04`, `05-14`, `15-34`, `35-59`, `60+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
-| are_covid19_incidence | number | Werte: `≥0`                                             | Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19            |
+| Variable              | Typ    | Ausprägungen                                               | Beschreibung                                                                       |
+|:----------------------|:-------|:-----------------------------------------------------------|:-----------------------------------------------------------------------------------|
+| date                  | date   | Format: `YYYY-Www`                                         | Berichtswoche des RKI im IS0-8601 Format                                           |
+| agegroup              | string | Werte:<br>`00-04`, `05-14`, `15-34`, `35-59`, `60+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
+| are_covid19_incidence | number | Werte: `≥0`                                                | Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19            |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -126,15 +131,13 @@ Die Datei [COVID-ARE-Konsultationsinzidenz.csv](https://github.com/robert-koch-i
 
 ### Formatierung  
 
-Die Daten sind im Datensatz als kommaseparierte .csv Datei enthalten. Der verwendete Zeichensatz der .csv Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Komma ",".
+Die Daten sind im Datensatz als kommaseparierte .csv Datei enthalten. Der verwendete Zeichensatz der .csv Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Komma `,`.
 
 - Zeichensatz: UTF-8
-- .csv Trennzeichen: Komma ","
+- .csv Trennzeichen: Komma `,`
 
 
 <!-- FOOTER_START: {"lang": "de"} -->
-
-
 
 ### Metadaten  
 
@@ -142,7 +145,7 @@ Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten b
 
 > [Metadaten/](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/zenodo.json)  
 
@@ -153,8 +156,8 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
     {
       "start": "2023-09-11T15:00:21+02:00",
       "end": "2023-09-11T15:00:21+02:00",
-      "type": "Collected",
-      "description": "Date when the Dataset was created"
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ],
 ```    
@@ -179,11 +182,13 @@ Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://d
 
 Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
 
-- https://zenodo.org/communities/robertkochinstitut  
-- https://github.com/robert-koch-institut  
-- https://gitlab.opencode.de/robert-koch-institut  
-- https://edoc.rki.de/  
- 
+- [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)  
+- [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)  
+- [https://gitlab.opencode.de/robert-koch-institut](https://gitlab.opencode.de/robert-koch-institut)  
+- [https://edoc.rki.de/](https://edoc.rki.de/) 
+
+
+
 ### Lizenz  
 
 Der Datensatz "COVID-ARE-Konsultationsinzidenz" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
