@@ -120,9 +120,9 @@ Die Datei [COVID-ARE-Konsultationsinzidenz.csv](https://github.com/robert-koch-i
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable              | Typ    | Ausprägungen                                               | Beschreibung                                                                       |
 |:----------------------|:-------|:-----------------------------------------------------------|:-----------------------------------------------------------------------------------|
-| date                  | date   | Format: `YYYY-Www`                                         | Berichtswoche des RKI im IS0-8601 Format                                           |
+| date                  | date   | Format:<br>`YYYY-Www`                                      | Berichtswoche des RKI im IS0-8601 Format                                           |
 | agegroup              | string | Werte:<br>`00-04`, `05-14`, `15-34`, `35-59`, `60+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
-| are_covid19_incidence | number | Werte: `≥0`                                                | Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19            |
+| are_covid19_incidence | number | Werte:<br>`≥0`                                             | Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19            |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
