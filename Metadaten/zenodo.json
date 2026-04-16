@@ -1,6 +1,15 @@
 {
   "title": "COVID-ARE-Konsultationsinzidenz",
-  "description": "<p>Im Datensatz &quot;COVID-ARE-Konsultationsinzidenz&quot; des Robert Koch-Instituts werden wöchentliche Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer Erkrankung (ARE) und zusätzlicher COVID-19-Diagnose in Deutschland bereitgestellt. Über das syndromische Surveillance-Modul SEED-ARE werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen und Patienten mit einer akuten Atemwegserkrankung inklusive der jeweiligen ICD-10-Diagnosecodes elektronisch übermittelt. Die COVID-ARE-Konsultationsinzidenz wird pro 100.000 Einwohner und nach Altersgruppen ausgewiesen. Der Datensatz ermöglicht eine zeitnahe Einschätzung der Krankheitslast und unterstützt evidenzbasierte Entscheidungen im Infektionsgeschehen mit COVID-19.</p>\n",
+  "description": "<p>Im Datensatz \"COVID-ARE-Konsultationsinzidenz\" des Robert Koch-Instituts werden wöchentliche Inzidenzen von ambulanten Konsultationen mit akuter respiratorischer Erkrankung (ARE) und zusätzlicher COVID-19-Diagnose in Deutschland bereitgestellt. Über das syndromische Surveillance-Modul SEED-ARE werden aus Sentinelpraxen Daten von gesetzlich versicherten Patientinnen und Patienten mit einer akuten Atemwegserkrankung inklusive der jeweiligen ICD-10-Diagnosecodes elektronisch übermittelt. Die COVID-ARE-Konsultationsinzidenz wird pro 100.000 Einwohner und nach Altersgruppen ausgewiesen. Der Datensatz ermöglicht eine zeitnahe Einschätzung der Krankheitslast und unterstützt evidenzbasierte Entscheidungen im Infektionsgeschehen mit COVID-19.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
+  ],
   "creators": [
     {
       "name": "Goerlitz, Luise",
@@ -68,55 +77,33 @@
     "Deutschland",
     "Germany",
     "RKI",
-    "Open Data"
+    "Open Data",
+    "Gesundheitsberichterstattung",
+    "Epidemiologie",
+    "Public health surveillance",
+    "Epidemiology"
   ],
-  "publication_date": "2026-04-09",
-  "version": "2026-04-09",
-  "upload_type": "dataset",
-  "access_right": "open",
-  "license": "CC-BY-4.0",
-  "language": "deu",
-  "communities": [
+  "subjects": [],
+  "publication_date": "2026-04-16",
+  "version": "2026-04-16",
+  "related_identifiers": [
     {
-      "identifier": "robertkochinstitut"
-    }
-  ],
-  "subjects": [
-    {
-      "term": "Gesundheitsberichterstattung",
-      "identifier": "info:ddc/22/de//614.42"
+      "identifier": "https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
     },
     {
-      "term": "Epidemiologie",
-      "identifier": "info:ddc/22/de//614.4"
-    },
-    {
-      "term": "Public health surveillance",
-      "identifier": "info:ddc/22/eng//614.42"
-    },
-    {
-      "term": "Epidemiology",
-      "identifier": "info:ddc/22/eng//614.4"
+      "identifier": "https://robert-koch-institut.github.io/COVID-ARE-Konsultationsinzidenz",
+      "relation": "isDescribedBy",
+      "resource_type": "other"
     }
   ],
   "dates": [
     {
-      "start": "2026-04-09T09:04:11+02:00",
-      "end": "2026-04-09T09:04:11+02:00",
+      "start": "2026-04-16T09:04:15+02:00",
+      "end": "2026-04-16T09:04:15+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
-    }
-  ],
-  "related_identifiers": [
-    {
-      "relation": "isSupplementTo",
-      "identifier": "https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz",
-      "resource_type": "dataset"
-    },
-    {
-      "relation": "isDescribedBy",
-      "identifier": "https://robert-koch-institut.github.io/COVID-ARE-Konsultationsinzidenz/",
-      "resource_type": "other"
     }
   ]
 }
