@@ -10,7 +10,7 @@ abstract: Im Datensatz "COVID-ARE-Konsultationsinzidenz" des Robert Koch-Institu
   wird pro 100.000 Einwohner und nach Altersgruppen ausgewiesen. Der Datensatz ermöglicht
   eine zeitnahe Einschätzung der Krankheitslast und unterstützt evidenzbasierte Entscheidungen
   im Infektionsgeschehen mit COVID-19.
-date-released: '2026-04-16'
+date-released: '2026-04-23'
 keywords:
   - SARS-CoV-2
   - COVID-19
@@ -40,8 +40,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/COVID-ARE-Konsultationsinzidenz
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19603648
-version: '2026-04-16T09:04:15+02:00'
+doi: 10.5281/zenodo.19704371
+version: '2026-04-23T09:04:19+02:00'
 authors:
   - family-names: Goerlitz
     given-names: Luise
