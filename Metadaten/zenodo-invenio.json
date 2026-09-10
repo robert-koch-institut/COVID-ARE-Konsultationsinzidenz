@@ -4,7 +4,7 @@
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2026-09-03",
+  "publication_date": "2026-09-10",
   "creators": [
     {
       "person_or_org": {
@@ -174,10 +174,10 @@
   ],
   "contributors": [],
   "publisher": "Zenodo",
-  "version": "2026-09-03",
+  "version": "2026-09-10",
   "dates": [
     {
-      "date": "2026-09-03T09:04:10+02:00",
+      "date": "2026-09-10T10:59:50+02:00",
       "type": {
         "id": "created"
       },
