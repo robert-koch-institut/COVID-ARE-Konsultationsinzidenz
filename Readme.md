@@ -115,14 +115,12 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 
 Die Datei [COVID-ARE-Konsultationsinzidenz.csv](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/COVID-ARE-Konsultationsinzidenz.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/tableschema_COVID-ARE-Konsultationsinzidenz.json) hinterlegt:
 
-> [tableschema_COVID-ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/tableschema_COVID-ARE-Konsultationsinzidenz.json)
-
 <!-- DATA_SCHEMA_TABLE_START -->
-| Variable                          | Typ    | Ausprägungen                                               | Beschreibung                                                                       |
-|:----------------------------------|:-------|:-----------------------------------------------------------|:-----------------------------------------------------------------------------------|
-| Kalenderwoche                     | date   | Format:<br>`YYYY-Www`                                      | Berichtswoche des RKI im IS0-8601 Format                                           |
-| Altersgruppe                      | string | Werte:<br>`00-04`, `05-14`, `15-34`, `35-59`, `60+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
-| ARE_COVID19_Konsultationsinzidenz | number | Werte:<br>`≥0`                                             | Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19            |
+| Variable                        | Typ    | Ausprägungen                                               | Beschreibung                                                                       |
+|:--------------------------------|:-------|:-----------------------------------------------------------|:-----------------------------------------------------------------------------------|
+| Kalenderwoche                   | date   | Format:<br>`YYYY-Www`                                      | Berichtswoche des RKI im IS0-8601 Format                                           |
+| Altersgruppe                    | string | Werte:<br>`00-04`, `05-14`, `15-34`, `35-59`, `60+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
+| COVID_ARE_Konsultationsinzidenz | number | Werte:<br>`≥0`                                             | Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19            |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 

@@ -28,7 +28,7 @@
       }
     },
     {
-      "name": "ARE_COVID19_Konsultationsinzidenz",
+      "name": "COVID_ARE_Konsultationsinzidenz",
       "type": "number",
       "description": "Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19",
       "missingValues": [
