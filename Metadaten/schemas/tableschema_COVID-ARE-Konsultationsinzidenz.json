@@ -1,15 +1,21 @@
 {
   "fields": [
     {
-      "name": "date",
+      "name": "Kalenderwoche",
       "type": "date",
       "description": "Berichtswoche des RKI im IS0-8601 Format",
-      "format": "%Y-W%W"
+      "format": "%Y-W%W",
+      "missingValues": [
+        ""
+      ]
     },
     {
-      "name": "agegroup",
+      "name": "Altersgruppe",
       "type": "string",
       "description": "Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an.",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "enum": [
           "00-04",
@@ -22,9 +28,12 @@
       }
     },
     {
-      "name": "are_covid19_incidence",
+      "name": "COVID_ARE_Konsultationsinzidenz",
       "type": "number",
       "description": "Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "minimum": 0
       }
