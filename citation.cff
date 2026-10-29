@@ -11,7 +11,7 @@ abstract: >-
   wird pro 100.000 Einwohner und nach Altersgruppen ausgewiesen. Der Datensatz ermöglicht
   eine zeitnahe Einschätzung der Krankheitslast und unterstützt evidenzbasierte Entscheidungen
   im Infektionsgeschehen mit COVID-19.
-date-released: '2026-10-22'
+date-released: '2026-10-29'
 keywords:
   - SARS-CoV-2
   - COVID-19
@@ -41,8 +41,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/COVID-ARE-Konsultationsinzidenz
 license: CC-BY-4.0
-doi: 10.5281/zenodo.23555770
-version: '2026-10-22'
+doi: 10.5281/zenodo.23758159
+version: '2026-10-29'
 authors:
   - family-names: Goerlitz
     given-names: Luise
