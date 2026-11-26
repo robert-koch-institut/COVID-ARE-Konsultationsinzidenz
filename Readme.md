@@ -21,7 +21,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Haas, W., & Buda, S. (2026). COVID-ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.24363881](https://doi.org/10.5281/zenodo.24363881)
+Goerlitz, L., Tolksdorf, K., Prahm, K., Preuß, U., Krupka, S., Wunderlich, J., Gvaladze, T., Haas, W., & Buda, S. (2026). COVID-ARE-Konsultationsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.24554679](https://doi.org/10.5281/zenodo.24554679)
 <!-- CITATION_END -->
 
 
@@ -191,5 +191,5 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 
 Der Datensatz "COVID-ARE-Konsultationsinzidenz" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, dass jede Person das Recht hat, die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/LIZENZ) Datei des Datensatzes.  
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, dass jede Person das Recht hat, die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/LICENSE)- bzw. [LIZENZ](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/LIZENZ)-Datei des Datensatzes.  
 <!-- FOOTER_END -->
