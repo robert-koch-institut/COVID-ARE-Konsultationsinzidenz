@@ -116,11 +116,11 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 Die Datei [COVID-ARE-Konsultationsinzidenz.csv](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/COVID-ARE-Konsultationsinzidenz.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-ARE-Konsultationsinzidenz.json](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/Metadaten/schemas/tableschema_COVID-ARE-Konsultationsinzidenz.json) hinterlegt:
 
 <!-- DATA_SCHEMA_TABLE_START -->
-| Variable              | Typ    | Ausprägungen                                               | Beschreibung                                                                       |
-|:----------------------|:-------|:-----------------------------------------------------------|:-----------------------------------------------------------------------------------|
-| date                  | date   | Format:<br>`YYYY-Www`                                      | Berichtswoche des RKI im IS0-8601 Format                                           |
-| agegroup              | string | Werte:<br>`00-04`, `05-14`, `15-34`, `35-59`, `60+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
-| are_covid19_incidence | number | Werte:<br>`≥0`                                             | Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19            |
+| Variable                        | Typ    | Ausprägungen                                               | Beschreibung                                                                       |
+|:--------------------------------|:-------|:-----------------------------------------------------------|:-----------------------------------------------------------------------------------|
+| Kalenderwoche                   | date   | Format:<br>`YYYY-Www`                                      | Berichtswoche des RKI im IS0-8601 Format                                           |
+| Altersgruppe                    | string | Werte:<br>`00-04`, `05-14`, `15-34`, `35-59`, `60+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
+| COVID_ARE_Konsultationsinzidenz | number | Werte:<br>`≥0`                                             | Konsultationsinzidenz akuter respiratorischer Erkrankungen mit COVID-19            |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -191,5 +191,5 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 
 Der Datensatz "COVID-ARE-Konsultationsinzidenz" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, dass jede Person das Recht hat, die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/LICENSE)- bzw. [LIZENZ](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/LIZENZ)-Datei des Datensatzes.  
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, dass jede Person das Recht hat, die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/COVID-ARE-Konsultationsinzidenz/blob/main/LIZENZ) Datei des Datensatzes.  
 <!-- FOOTER_END -->
